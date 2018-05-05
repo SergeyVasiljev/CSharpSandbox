@@ -10,6 +10,8 @@ namespace TestRepo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, world!");
+            Console.ReadLine(); // предотвращение быстрого закрытия консоли
         }
     }
 }
